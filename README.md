@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ryan</h1>
 <h3 align="center">A CyberSecurity student in the Portland, OR area.</h3>
 
-- 🌱 I’m currently learning about **CyberSecurity, Databases, and anything tech-related :D**
+- 🌱 I enjoy learning about **CyberSecurity, Databases, and anything tech-related :D**
 
 - 👨‍💻 All of my projects are available at [https://portfolium.com/RyanWittmers](https://portfolium.com/RyanWittmers)
 
